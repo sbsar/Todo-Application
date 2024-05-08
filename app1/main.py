@@ -1,3 +1,4 @@
+#Author Saim
 from functions import *
 import time
 
